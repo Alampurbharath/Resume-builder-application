@@ -45,7 +45,7 @@ Unified Resume Builder is a full-stack application that allows users to create a
 
 🖥️ 1. Clone the Repository
 
-    git clone https://github.com/sandeep4358d/resume-builder-application.git
+    git clone https://github.com/Alampurbharath/Resume-builder-application.git
     
     cd Unified-Resume-Builder
 
@@ -101,4 +101,4 @@ The backend should be running on http://localhost:5000
 
 🎯 Contact & Support
 
-    If you have any questions, feel free to reach out!📧 Email: sandeepdasari2004@gmail.com🔗 GitHub: sandeep4358d
+    If you have any questions, feel free to reach out!📧 Email: alampurbharath@gmail.com🔗 GitHub:https://github.com/Alampurbharath 
